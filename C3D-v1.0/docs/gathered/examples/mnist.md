@@ -1,0 +1,1 @@
+/home/minhtriet/CS/thesis/c3d/C3D-v1.0/examples/mnist/readme.md
